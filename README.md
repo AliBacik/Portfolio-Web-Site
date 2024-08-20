@@ -7,7 +7,7 @@
 **Pictures from the web site**
 
 
-![alt text]()
+![alt text](https://github.com/AliBacik/Portfolio-Web-Site/blob/main/portfolio-site.png)
 
 
 
